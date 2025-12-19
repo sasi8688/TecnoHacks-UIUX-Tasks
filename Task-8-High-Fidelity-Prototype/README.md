@@ -12,8 +12,8 @@ and smooth navigation between screens.
 [View Figma Prototype] https://www.figma.com/proto/W8nAMrhk3ycqUmNE7DGDRJ/Untitled?node-id=0-1&t=xERlpi9VV0vDhwWG-1
 
 ### Screens Included
-- Login Screen
 - Onboardings
+- Login screen
 - Home Screen
 - Cart
 - Navigation Flow
